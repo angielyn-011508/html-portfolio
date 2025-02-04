@@ -1,0 +1,59 @@
+.shesh {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-top: 30px;
+}
+.serenity {
+    height: 500px;
+    width: 4000px;
+}
+.body {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border: 5px solid black;
+    padding: 0;
+    margin: 0;
+    font-family: arial,sans-serif;
+}
+.computer {
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+h2 {
+    color: aqua;
+}
+.cooking {
+    height: 150px;
+    width: 150px;
+
+}
+.dancing {
+    height: 150px;
+    width: 150px;
+ 
+}
+h3 {
+    color: aqua;
+}
+.description {
+    color: aqua;
+}
+footer {
+    background-color: white;
+    padding: 100px;
+    text-align: center;
+}
+.contact {
+    text-align: center;
+}
+
+img{
+    float: left;
+}
+.aboutus {
+    background-color: tomato;
+}
